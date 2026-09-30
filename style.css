@@ -84,3 +84,5 @@ footer { margin-top: 3rem; padding-top: .75rem; border-top: 2px solid var(--blue
 a.chip { text-decoration: none; }
 .back { margin: 0 0 .75rem; font-size: .85rem; }
 .back a { text-decoration: none; }
+.intro { margin: 1.5rem 0 0; font-size: .98rem; }
+.entry .desc { margin: .15rem 0 0; font-size: .88rem; }
