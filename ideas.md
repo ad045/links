@@ -1,0 +1,1 @@
+add a button being like: "get notified when published".
