@@ -21,3 +21,5 @@ Edit the HTML, then `git push`; GitHub Pages redeploys in about a minute.
 Keep the URL stable: printed posters point at `https://ad045.github.io/links/`, so do not rename the repo.
 
 For a new poster, replace the "This poster" card in `index.html`; the QR code stays the same.
+
+
